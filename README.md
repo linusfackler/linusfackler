@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/linusfackler">
+  <a href="https://www.linkedin.com/in/linusfackler" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linusfackler.com">
+  <a href="https://www.linusfackler.com" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio%20Website-000e40?style=for-the-badge&" alt="Website"/>
   </a>
 </div>
