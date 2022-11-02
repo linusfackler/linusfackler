@@ -15,7 +15,7 @@
 
 <p align="center"><img src="https://thumbs.gfycat.com/WideDeadlyAngelfish-max-1mb.gif" width="600" height="300"/></p>
 
-### :woman_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me :
 
 I am a Computer Science Senior at the University of Texas at Dallas
 
@@ -48,7 +48,7 @@ I am a Computer Science Senior at the University of Texas at Dallas
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 📓 &nbsp; My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=linusfackler&theme=elegant)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linusfackler&hide=javascript,html&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
