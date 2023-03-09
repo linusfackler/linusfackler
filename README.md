@@ -51,6 +51,6 @@ I am a Computer Science Senior at the University of Texas at Dallas
 ### 📓 &nbsp; My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=linusfackler&theme=elegant)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linusfackler&hide=html&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linusfackler&hide=html,jupyter%20notebook&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
