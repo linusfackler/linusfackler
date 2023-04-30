@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<h1 align="center">Greetings <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://thumbs.gfycat.com/WideDeadlyAngelfish-max-1mb.gif" width="600" height="300"/></p>
 
@@ -19,7 +19,7 @@
 
 I am a Computer Science Senior at the University of Texas at Dallas
 
-- 🎓 Graduating in Spring 2023 (Currently 3.73/4 GPA) - attending Masters program until ~May 2025
+- 🎓 Graduating in Spring 2023 (Currently 3.73/4 GPA)
 - 🔧 Experience in Software Engineering, Computer Networking, and Research
 - 💻 500+ contributions in the last year
 
