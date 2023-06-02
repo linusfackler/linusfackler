@@ -19,7 +19,7 @@
 
 I am a Computer Science Senior at the University of Texas at Dallas
 
-- 🎓 Graduating in Spring 2023 (Currently 3.73/4 GPA)
+- 🎓 Graduated in Spring 2023 (3.8/4 GPA)
 - 🔧 Experience in Software Engineering, Computer Networking, and Research
 - 💻 500+ contributions in the last year
 
