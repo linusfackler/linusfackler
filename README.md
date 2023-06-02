@@ -17,11 +17,11 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Computer Science Senior at the University of Texas at Dallas
+I am a recent Computer Science graduate from the University of Texas at Dallas
 
 - 🎓 Graduated in Spring 2023 (3.8/4 GPA)
 - 🔧 Experience in Software Engineering, Computer Networking, and Research
-- 💻 500+ contributions in the last year
+- 💻 600+ contributions in the last year
 
 ---
 
